@@ -1,0 +1,14 @@
+<svg width="66" height="66" viewBox="0 0 66 66" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="grommet-icons:host-maintenance" clip-path="url(#clip0_1_530)">
+<path id="Vector" d="M38.5 63.25L55 46.75M57.75 38.5C56.6622 38.5 55.5988 38.8226 54.6944 39.4269C53.7899 40.0313 53.0849 40.8902 52.6687 41.8952C52.2524 42.9002 52.1435 44.0061 52.3557 45.073C52.5679 46.1399 53.0917 47.1199 53.8609 47.8891C54.6301 48.6583 55.6101 49.1821 56.677 49.3943C57.7439 49.6065 58.8498 49.4976 59.8548 49.0813C60.8598 48.6651 61.7187 47.9601 62.3231 47.0556C62.9274 46.1512 63.25 45.0878 63.25 44M27.5 63.25H8.25V2.75H57.75V30.25M8.25 35.75H46.75M8.25 49.5H35.75M8.25 22H57.75M46.75 11H49.5V13.75H46.75V11Z" stroke="url(#paint0_linear_1_530)" stroke-width="7"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1_530" x1="35.75" y1="2.75" x2="35.75" y2="63.25" gradientUnits="userSpaceOnUse">
+<stop stop-color="#9E8763"/>
+<stop offset="1" stop-color="#EBC180"/>
+</linearGradient>
+<clipPath id="clip0_1_530">
+<rect width="66" height="66" fill="white"/>
+</clipPath>
+</defs>
+</svg>
